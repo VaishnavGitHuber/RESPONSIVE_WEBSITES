@@ -1,2 +1,2 @@
-Prototype layout
-![image](
+#### Prototype layout
+![images](images/prototype.png)
