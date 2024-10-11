@@ -1,4 +1,2 @@
-#### Prototype layout
-* Using the simple html + css proprties
-1. DARE 2 FIT
+#### DARE TO FIT
 ![images](prototype.png)
