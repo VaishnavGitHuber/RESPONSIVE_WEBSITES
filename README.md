@@ -1,2 +1,3 @@
 #### Prototype layout
-![images](BODYFITNESS/images/prototype.png)
+* Using the simple html and css proprties 
+![images](prototype.png)
