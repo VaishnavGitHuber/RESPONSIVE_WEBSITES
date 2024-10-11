@@ -1,2 +1,2 @@
 #### Prototype layout
-![images](images/prototype.png)
+![images](BODYFITNESS/images/prototype.png)
